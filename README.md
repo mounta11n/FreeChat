@@ -4,6 +4,8 @@
 
 <h1 align="center">FreeChat</h1>
 
+This is a fork.
+
 Chat with LLMs on your Mac without installing any other software. Every conversation is saved locally, all conversations happen offline.
 
 - Customize persona and expertise by changing the system prompt
